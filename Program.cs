@@ -27,8 +27,6 @@ namespace tpmodul5_103022300154
         }
     }
 
-
-}
     class HaloGeneric
     {
         public static void SapaUser<T>(T nama)
